@@ -1,0 +1,24 @@
+
+{
+  "validUser": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "invalidUser": {
+    "username": "invalid_user",
+    "password": "wrong_password"
+  },
+  "lockedUser": {
+    "username": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "product": {
+    "name": "Sauce Labs Backpack",
+    "price": "$29.99"
+  },
+  "checkout": {
+    "firstName": "Test",
+    "lastName": "User",
+    "postalCode": "500001"
+  }
+}
